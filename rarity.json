@@ -1,0 +1,40 @@
+{
+    "edition": {
+        "null": 499
+    },
+    "eyes": {
+        "cross": 143,
+        "narrow": 171,
+        "small": 120,
+        "wide": 7,
+        "big": 54
+    },
+    "hair": {
+        "bowl": 168,
+        "bald": 139,
+        "long": 124,
+        "afro": 59,
+        "short": 5
+    },
+    "head": {
+        "orange": 126,
+        "blue": 143,
+        "green": 162,
+        "black": 54,
+        "red": 10
+    },
+    "mouth": {
+        "open": 165,
+        "smile": 120,
+        "frown": 144,
+        "flat": 57,
+        "smirk": 9
+    },
+    "nose": {
+        "roman": 120,
+        "giant": 173,
+        "crooked": 65,
+        "flared": 130,
+        "thin": 7
+    }
+}
