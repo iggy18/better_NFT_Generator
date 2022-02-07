@@ -1,0 +1,32 @@
+{
+    "name": "Skullmon#370",
+    "image": "www.something//Skullmon#370",
+    "description": "the result of a python code tutorial",
+    "edition": 370,
+    "attributes": [
+        {
+            "trait_type": "edition",
+            "value": 370
+        },
+        {
+            "trait_type": "eyes",
+            "value": "small"
+        },
+        {
+            "trait_type": "hair",
+            "value": "afro"
+        },
+        {
+            "trait_type": "head",
+            "value": "blue"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frown"
+        },
+        {
+            "trait_type": "nose",
+            "value": "giant"
+        }
+    ]
+}
