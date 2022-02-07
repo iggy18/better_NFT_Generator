@@ -10,7 +10,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "small"
+            "value": "narrow"
         },
         {
             "trait_type": "hair",
@@ -31,7 +31,7 @@
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.2380000000000004
+            "value": 2.4133333333333336
         }
     ]
 }

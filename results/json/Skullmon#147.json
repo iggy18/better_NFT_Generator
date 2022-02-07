@@ -14,24 +14,24 @@
         },
         {
             "trait_type": "hair",
-            "value": "long"
+            "value": "bald"
         },
         {
             "trait_type": "head",
-            "value": "green"
+            "value": "blue"
         },
         {
             "trait_type": "mouth",
-            "value": "open"
+            "value": "flat"
         },
         {
             "trait_type": "nose",
-            "value": "roman"
+            "value": "giant"
         },
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.504
+            "value": 2.436666666666667
         }
     ]
 }

@@ -22,16 +22,16 @@
         },
         {
             "trait_type": "mouth",
-            "value": "open"
+            "value": "smile"
         },
         {
             "trait_type": "nose",
-            "value": "crooked"
+            "value": "flared"
         },
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.474
+            "value": 2.5933333333333337
         }
     ]
 }

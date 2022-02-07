@@ -14,24 +14,24 @@
         },
         {
             "trait_type": "hair",
-            "value": "long"
+            "value": "bowl"
         },
         {
             "trait_type": "head",
-            "value": "blue"
+            "value": "black"
         },
         {
             "trait_type": "mouth",
-            "value": "frown"
+            "value": "open"
         },
         {
             "trait_type": "nose",
-            "value": "flared"
+            "value": "crooked"
         },
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.356
+            "value": 2.2266666666666666
         }
     ]
 }

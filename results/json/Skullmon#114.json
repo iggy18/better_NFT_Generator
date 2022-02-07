@@ -10,15 +10,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "cross"
+            "value": "small"
         },
         {
             "trait_type": "hair",
-            "value": "bald"
+            "value": "bowl"
         },
         {
             "trait_type": "head",
-            "value": "green"
+            "value": "black"
         },
         {
             "trait_type": "mouth",
@@ -31,7 +31,7 @@
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.504
+            "value": 2.2933333333333334
         }
     ]
 }

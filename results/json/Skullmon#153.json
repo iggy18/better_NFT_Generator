@@ -22,16 +22,16 @@
         },
         {
             "trait_type": "mouth",
-            "value": "frown"
+            "value": "smile"
         },
         {
             "trait_type": "nose",
-            "value": "giant"
+            "value": "flared"
         },
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.47
+            "value": 2.3866666666666667
         }
     ]
 }

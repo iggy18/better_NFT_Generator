@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "narrow"
+            "value": "cross"
         },
         {
             "trait_type": "hair",
-            "value": "bowl"
+            "value": "afro"
         },
         {
             "trait_type": "head",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "open"
         },
         {
             "trait_type": "nose",
@@ -31,7 +31,7 @@
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.602
+            "value": 2.44
         }
     ]
 }

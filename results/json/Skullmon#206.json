@@ -10,28 +10,28 @@
         },
         {
             "trait_type": "eyes",
-            "value": "small"
+            "value": "narrow"
         },
         {
             "trait_type": "hair",
-            "value": "bald"
+            "value": "long"
         },
         {
             "trait_type": "head",
-            "value": "green"
+            "value": "black"
         },
         {
             "trait_type": "mouth",
-            "value": "frown"
+            "value": "open"
         },
         {
             "trait_type": "nose",
-            "value": "crooked"
+            "value": "giant"
         },
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.236
+            "value": 2.4400000000000004
         }
     ]
 }

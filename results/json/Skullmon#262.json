@@ -18,7 +18,7 @@
         },
         {
             "trait_type": "head",
-            "value": "orange"
+            "value": "blue"
         },
         {
             "trait_type": "mouth",
@@ -26,12 +26,12 @@
         },
         {
             "trait_type": "nose",
-            "value": "roman"
+            "value": "giant"
         },
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.354
+            "value": 2.576666666666667
         }
     ]
 }

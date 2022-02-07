@@ -10,7 +10,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "cross"
+            "value": "small"
         },
         {
             "trait_type": "hair",
@@ -26,12 +26,12 @@
         },
         {
             "trait_type": "nose",
-            "value": "roman"
+            "value": "crooked"
         },
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.318
+            "value": 2.15
         }
     ]
 }

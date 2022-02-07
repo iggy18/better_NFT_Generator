@@ -14,11 +14,11 @@
         },
         {
             "trait_type": "hair",
-            "value": "bowl"
+            "value": "bald"
         },
         {
             "trait_type": "head",
-            "value": "black"
+            "value": "red"
         },
         {
             "trait_type": "mouth",
@@ -26,12 +26,12 @@
         },
         {
             "trait_type": "nose",
-            "value": "roman"
+            "value": "crooked"
         },
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.362
+            "value": 2.146666666666667
         }
     ]
 }

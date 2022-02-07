@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "narrow"
+            "value": "big"
         },
         {
             "trait_type": "hair",
-            "value": "bowl"
+            "value": "bald"
         },
         {
             "trait_type": "head",
@@ -26,12 +26,12 @@
         },
         {
             "trait_type": "nose",
-            "value": "roman"
+            "value": "giant"
         },
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.51
+            "value": 2.3066666666666666
         }
     ]
 }

@@ -14,11 +14,11 @@
         },
         {
             "trait_type": "hair",
-            "value": "long"
+            "value": "bowl"
         },
         {
             "trait_type": "head",
-            "value": "orange"
+            "value": "green"
         },
         {
             "trait_type": "mouth",
@@ -26,12 +26,12 @@
         },
         {
             "trait_type": "nose",
-            "value": "crooked"
+            "value": "roman"
         },
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.302
+            "value": 2.6633333333333336
         }
     ]
 }

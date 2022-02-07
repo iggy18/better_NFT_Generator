@@ -18,7 +18,7 @@
         },
         {
             "trait_type": "head",
-            "value": "blue"
+            "value": "green"
         },
         {
             "trait_type": "mouth",
@@ -31,7 +31,7 @@
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.4859999999999998
+            "value": 2.6366666666666667
         }
     ]
 }

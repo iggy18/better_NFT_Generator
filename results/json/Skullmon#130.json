@@ -26,12 +26,12 @@
         },
         {
             "trait_type": "nose",
-            "value": "thin"
+            "value": "roman"
         },
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.182
+            "value": 2.3866666666666667
         }
     ]
 }
