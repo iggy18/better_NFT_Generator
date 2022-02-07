@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "hair",
-            "value": "long"
+            "value": "bald"
         },
         {
             "trait_type": "head",
@@ -22,11 +22,16 @@
         },
         {
             "trait_type": "mouth",
-            "value": "frown"
+            "value": "flat"
         },
         {
             "trait_type": "nose",
-            "value": "crooked"
+            "value": "giant"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.2800000000000002
         }
     ]
 }

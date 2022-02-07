@@ -14,19 +14,24 @@
         },
         {
             "trait_type": "hair",
-            "value": "afro"
+            "value": "bald"
         },
         {
             "trait_type": "head",
-            "value": "blue"
+            "value": "black"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "frown"
         },
         {
             "trait_type": "nose",
-            "value": "crooked"
+            "value": "roman"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.1900000000000004
         }
     ]
 }

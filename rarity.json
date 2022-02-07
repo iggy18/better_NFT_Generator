@@ -3,38 +3,38 @@
         "null": 0.998
     },
     "eyes": {
-        "cross": 0.274,
-        "small": 0.256,
-        "narrow": 0.332,
-        "big": 0.118,
-        "wide": 0.01
+        "cross": 0.288,
+        "small": 0.222,
+        "narrow": 0.346,
+        "big": 0.12,
+        "wide": 0.014
     },
     "hair": {
-        "bowl": 0.326,
-        "afro": 0.12,
         "long": 0.254,
-        "bald": 0.278,
-        "short": 0.012
+        "bowl": 0.334,
+        "bald": 0.27,
+        "afro": 0.114,
+        "short": 0.018
     },
     "head": {
-        "blue": 0.274,
-        "green": 0.348,
+        "blue": 0.272,
+        "green": 0.338,
         "orange": 0.246,
         "black": 0.116,
-        "red": 0.006
+        "red": 0.018
     },
     "mouth": {
-        "open": 0.34,
-        "frown": 0.272,
-        "smile": 0.24,
-        "flat": 0.126,
-        "smirk": 0.012
+        "open": 0.326,
+        "flat": 0.118,
+        "frown": 0.276,
+        "smile": 0.252,
+        "smirk": 0.018
     },
     "nose": {
-        "roman": 0.252,
+        "crooked": 0.132,
+        "roman": 0.242,
+        "giant": 0.334,
         "flared": 0.268,
-        "giant": 0.34,
-        "crooked": 0.11,
-        "thin": 0.02
+        "thin": 0.014
     }
 }

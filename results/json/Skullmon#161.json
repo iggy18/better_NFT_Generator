@@ -10,23 +10,28 @@
         },
         {
             "trait_type": "eyes",
-            "value": "cross"
+            "value": "narrow"
         },
         {
             "trait_type": "hair",
-            "value": "afro"
+            "value": "bald"
         },
         {
             "trait_type": "head",
-            "value": "blue"
+            "value": "orange"
         },
         {
             "trait_type": "mouth",
-            "value": "open"
+            "value": "flat"
         },
         {
             "trait_type": "nose",
-            "value": "thin"
+            "value": "flared"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.2459999999999996
         }
     ]
 }

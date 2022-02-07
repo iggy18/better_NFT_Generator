@@ -14,11 +14,11 @@
         },
         {
             "trait_type": "hair",
-            "value": "afro"
+            "value": "bald"
         },
         {
             "trait_type": "head",
-            "value": "orange"
+            "value": "blue"
         },
         {
             "trait_type": "mouth",
@@ -26,7 +26,12 @@
         },
         {
             "trait_type": "nose",
-            "value": "giant"
+            "value": "roman"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.2800000000000002
         }
     ]
 }

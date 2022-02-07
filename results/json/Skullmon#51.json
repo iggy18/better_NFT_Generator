@@ -14,19 +14,24 @@
         },
         {
             "trait_type": "hair",
-            "value": "bald"
+            "value": "bowl"
         },
         {
             "trait_type": "head",
-            "value": "orange"
+            "value": "green"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "flat"
         },
         {
             "trait_type": "nose",
-            "value": "flared"
+            "value": "giant"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.468
         }
     ]
 }

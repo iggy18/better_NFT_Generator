@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "hair",
-            "value": "bowl"
+            "value": "bald"
         },
         {
             "trait_type": "head",
@@ -26,7 +26,12 @@
         },
         {
             "trait_type": "nose",
-            "value": "roman"
+            "value": "flared"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.246
         }
     ]
 }

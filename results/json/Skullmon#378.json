@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "cross"
+            "value": "small"
         },
         {
             "trait_type": "hair",
-            "value": "afro"
+            "value": "long"
         },
         {
             "trait_type": "head",
@@ -27,6 +27,11 @@
         {
             "trait_type": "nose",
             "value": "giant"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.198
         }
     ]
 }

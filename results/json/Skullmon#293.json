@@ -18,7 +18,7 @@
         },
         {
             "trait_type": "head",
-            "value": "blue"
+            "value": "green"
         },
         {
             "trait_type": "mouth",
@@ -27,6 +27,11 @@
         {
             "trait_type": "nose",
             "value": "flared"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.4139999999999997
         }
     ]
 }

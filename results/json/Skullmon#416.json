@@ -10,23 +10,28 @@
         },
         {
             "trait_type": "eyes",
-            "value": "small"
+            "value": "narrow"
         },
         {
             "trait_type": "hair",
-            "value": "bowl"
+            "value": "afro"
         },
         {
             "trait_type": "head",
-            "value": "blue"
+            "value": "orange"
         },
         {
             "trait_type": "mouth",
-            "value": "open"
+            "value": "smile"
         },
         {
             "trait_type": "nose",
-            "value": "thin"
+            "value": "giant"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.29
         }
     ]
 }

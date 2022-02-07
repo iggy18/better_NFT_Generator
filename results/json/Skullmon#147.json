@@ -10,7 +10,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "small"
+            "value": "narrow"
         },
         {
             "trait_type": "hair",
@@ -18,7 +18,7 @@
         },
         {
             "trait_type": "head",
-            "value": "blue"
+            "value": "green"
         },
         {
             "trait_type": "mouth",
@@ -27,6 +27,11 @@
         {
             "trait_type": "nose",
             "value": "roman"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.504
         }
     ]
 }

@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "small"
+            "value": "narrow"
         },
         {
             "trait_type": "hair",
-            "value": "afro"
+            "value": "long"
         },
         {
             "trait_type": "head",
@@ -26,7 +26,12 @@
         },
         {
             "trait_type": "nose",
-            "value": "roman"
+            "value": "flared"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.388
         }
     ]
 }

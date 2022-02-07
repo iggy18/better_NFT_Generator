@@ -22,11 +22,16 @@
         },
         {
             "trait_type": "mouth",
-            "value": "frown"
+            "value": "open"
         },
         {
             "trait_type": "nose",
             "value": "flared"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.396
         }
     ]
 }

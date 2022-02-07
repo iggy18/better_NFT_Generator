@@ -14,19 +14,24 @@
         },
         {
             "trait_type": "hair",
-            "value": "afro"
+            "value": "bald"
         },
         {
             "trait_type": "head",
-            "value": "blue"
+            "value": "green"
         },
         {
             "trait_type": "mouth",
-            "value": "frown"
+            "value": "open"
         },
         {
             "trait_type": "nose",
             "value": "flared"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.5460000000000003
         }
     ]
 }

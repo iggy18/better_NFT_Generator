@@ -10,7 +10,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "narrow"
+            "value": "cross"
         },
         {
             "trait_type": "hair",
@@ -22,11 +22,16 @@
         },
         {
             "trait_type": "mouth",
-            "value": "frown"
+            "value": "open"
         },
         {
             "trait_type": "nose",
-            "value": "flared"
+            "value": "roman"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.462
         }
     ]
 }
