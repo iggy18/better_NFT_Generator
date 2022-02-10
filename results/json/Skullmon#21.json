@@ -1,7 +1,8 @@
 {
     "name": "Skullmon#21",
-    "image": "www.something//Skullmon#21",
+    "image": "ipfs://QmUE5tSqFbQ1LQCCtU9Y4kymhX7ZmagGNd2xBnYyKDP5hF/Skullmon#21.png",
     "description": "the result of a python code tutorial",
+    "external_url": "https://www.seth.mcfeeters.com",
     "edition": 21,
     "attributes": [
         {
@@ -9,29 +10,25 @@
             "value": 21
         },
         {
-            "trait_type": "eyes",
-            "value": "narrow"
+            "trait_type": "background",
+            "value": "darkback"
         },
         {
-            "trait_type": "hair",
-            "value": "bald"
+            "trait_type": "eyes",
+            "value": "geareyes"
         },
         {
             "trait_type": "head",
-            "value": "orange"
+            "value": "yellowhead"
         },
         {
             "trait_type": "mouth",
-            "value": "frown"
-        },
-        {
-            "trait_type": "nose",
-            "value": "giant"
+            "value": "flatmouth"
         },
         {
             "display_type": "number",
             "trait_type": "rarity",
-            "value": 2.4933333333333336
+            "value": 1.96
         }
     ]
 }

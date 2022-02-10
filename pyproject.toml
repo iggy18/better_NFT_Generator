@@ -8,6 +8,7 @@ authors = ["Seth Mcfeeters <seth.mcfeeters@gmail.com>"]
 python = "^3.8"
 Pillow = "^9.0.1"
 colorama = "^0.4.4"
+tqdm = "^4.62.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

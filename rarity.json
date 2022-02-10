@@ -1,40 +1,34 @@
 {
     "edition": {
-        "null": 0.9966666666666667
+        "null": 0.99
+    },
+    "background": {
+        "purpleback": 0.4,
+        "darkback": 0.24,
+        "redback": 0.2,
+        "cyanback": 0.09,
+        "yellowback": 0.02
     },
     "eyes": {
-        "narrow": 0.37333333333333335,
-        "big": 0.09333333333333334,
-        "cross": 0.2833333333333333,
-        "small": 0.21666666666666667,
-        "wide": 0.016666666666666666
-    },
-    "hair": {
-        "bald": 0.2733333333333333,
-        "bowl": 0.37333333333333335,
-        "long": 0.24333333333333335,
-        "afro": 0.08333333333333333,
-        "short": 0.01
+        "redeyes": 0.23,
+        "geareyes": 0.36,
+        "wonkeyeyes": 0.17,
+        "winkeyes": 0.12,
+        "commoneyes": 0.05,
+        "crosseyes": 0.01
     },
     "head": {
-        "blue": 0.31333333333333335,
-        "green": 0.33666666666666667,
-        "black": 0.08666666666666667,
-        "orange": 0.23,
-        "red": 0.016666666666666666
+        "purplehead": 0.29,
+        "whitehead": 0.24,
+        "yellowhead": 0.08,
+        "greenhead": 0.22,
+        "bluehead": 0.12
     },
     "mouth": {
-        "smile": 0.24,
-        "frown": 0.25333333333333335,
-        "flat": 0.11333333333333333,
-        "open": 0.37333333333333335,
-        "smirk": 0.0033333333333333335
-    },
-    "nose": {
-        "flared": 0.2733333333333333,
-        "crooked": 0.11333333333333333,
-        "giant": 0.36666666666666664,
-        "roman": 0.21,
-        "thin": 0.02
+        "crossmouth": 0.06,
+        "openmouth": 0.42,
+        "smilemouth": 0.16,
+        "flatmouth": 0.29,
+        "smirkmouth": 0.02
     }
 }

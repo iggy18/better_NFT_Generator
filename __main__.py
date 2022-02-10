@@ -1,9 +1,6 @@
-from lib.setup_data import start
-from lib.generate import lottery  
+from lib.image_printer import build_paths  
 
 
 
 if __name__ == "__main__":
-    start()
-    
-    lottery()
+    build_paths()
