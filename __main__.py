@@ -1,4 +1,4 @@
-from lib.image_printer import build_paths  
+from maker.image_printer import build_paths  
 
 
 
