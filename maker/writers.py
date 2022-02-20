@@ -1,7 +1,7 @@
 import csv
 import json
 import os
-from .config import ADD_RARITY, NFT_NAME
+from .config import ADD_RARITY
 
 def rarity_json(data):
     with open('rarity.json', 'w', encoding='utf-8') as f:
@@ -23,7 +23,7 @@ def write_to_CSV(data):
         
 def individual_json(data):
     #data needs to come in as a dictionary for this to work
-    with open(f'results/json/{NFT_NAME}#{data["edition"]}.json', 'w', encoding='utf-8') as f:
+    with open(f'results/json/{data["edition"]}.token.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 def json_metadata(data):

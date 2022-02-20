@@ -1,7 +1,7 @@
 import random
 
 from .checks import ensure_output_folders_exist
-from .config import WEIGHTS, NUMBER_OF_DESIRED_IMAGES, ADD_RARITY
+from .config import WEIGHTS, NUMBER_OF_DESIRED_IMAGES, ADD_RARITY, OPTIONAL_LAYERS, NUMBER_OF_DESIRED_IMAGES, LUCKY_NUMBERS, CONFLICTING_TRAITS
 from .inputs import get_files, missing_input_folders
 from .strings import NFTS_ASSEMBLED
 from .writers import rarity_json, init_CSV, write_to_CSV, individual_json, json_metadata
@@ -42,7 +42,7 @@ def create_json_files(nft_list):
     json_metadata(meta)
     
 def add_edition_to(nft_list):
-    edition = 1
+    edition = 0
     for nft in nft_list:
         nft['edition'] = edition
         edition += 1
@@ -55,7 +55,11 @@ def add_rarity_score_to_nft(rarity_tally, nft_list):
             count += 1
             score += rarity_tally[trait][value]
         nft['rarity'] = score
-    
+
+def winner():
+    number = random.randint(1, NUMBER_OF_DESIRED_IMAGES)
+    if number in LUCKY_NUMBERS:
+        return True
 
 def lottery():
     
@@ -64,18 +68,30 @@ def lottery():
     if missing_input_folders():
         return
     
-    init_CSV()
-    
     unique_nfts = []
     
     def generate_unique_nft():
         nft = {}
         nft['edition'] = None
         for key, value in TRAITS_AND_VALUES.items():
-            if key != 'edition':
+            if key != 'edition' and key not in OPTIONAL_LAYERS:
                 nft[key] = random.choices(value, weights=WEIGHTS[key], k=1)[0]
+        
+        if OPTIONAL_LAYERS:
+            for layer in OPTIONAL_LAYERS:
+                    if winner():
+                        nft[layer] = random.choices(value, weights=WEIGHTS[key], k=1)[0]
+        
+        if CONFLICTING_TRAITS:
+            for key, value in nft.items():
+                if key in CONFLICTING_TRAITS:
+                        for trait in value:
+                            if trait in nft:
+                                nft.pop(trait, None)
+                        
         if nft in unique_nfts:
             return generate_unique_nft()
+        
         return nft
 
     for i in range(0, NUMBER_OF_DESIRED_IMAGES):
@@ -89,6 +105,8 @@ def lottery():
     rarity_json(rarity_dict)
     
     add_edition_to(unique_nfts)
+    
+    init_CSV()
     
     make_csv(unique_nfts)
     

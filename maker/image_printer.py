@@ -4,7 +4,7 @@ from collections import OrderedDict
 from tqdm import tqdm
 from .image_helpers import cleaned, stack_images
 from .generate import lottery
-from .config import FILE_TYPE, NFT_NAME, LAYER_ORDER
+from .config import FILE_TYPE, LAYER_ORDER
 
 PROJECT = project = os.listdir('input')
 
@@ -21,12 +21,13 @@ def in_path(attribute, value):
     return f'input/{attribute}/{value}{FILE_TYPE}'
 
 def out_path(edition):
-    return f'results/images/{NFT_NAME}#{edition}{FILE_TYPE}'
+    return f'results/images/{edition}{FILE_TYPE}'
 
 def ordered(nft):
     od = OrderedDict()
     for item in LAYER_ORDER:
-        od[item] = nft[item]
+        if item in nft:
+            od[item] = nft[item]
     return od
 
 def make_image(nft):

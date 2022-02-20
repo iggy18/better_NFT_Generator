@@ -20,7 +20,7 @@ def get_keys_and_values(nft):
 def complex_nft_dict(nft):
     nft = {
                 "name" : f"{NFT_NAME}#{nft['edition']}",
-                "image" : f"{BASE_URI}/{NFT_NAME}#{nft['edition']}{FILE_TYPE}",
+                "image" : f"{BASE_URI}/{nft['edition']}{FILE_TYPE}",
                 "description" : DESCRIPTION,
                 "external_url" : EXTERNAL_URL,
                 "edition": nft['edition'],
