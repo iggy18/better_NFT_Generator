@@ -3,7 +3,9 @@ from .config import NFT_NAME, DESCRIPTION, BASE_URI, EXTERNAL_URL, FILE_TYPE
 def get_keys_and_values(nft):
     attributes = []
     for key,value in nft.items():
-        if key != 'rarity':
+        if value == None:
+            continue
+        if key != 'rarity' and value != None:
             traits = {
                 "trait_type" : key, 
                 "value" : value

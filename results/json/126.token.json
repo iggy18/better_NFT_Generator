@@ -1,0 +1,54 @@
+{
+    "name": "Doodle Doods#126",
+    "image": "ipfs://{REPLACE_WITH_CID}/126.png",
+    "description": "the result of a python code tutorial",
+    "external_url": "https://www.{WEBSITE}.com",
+    "edition": 126,
+    "attributes": [
+        {
+            "trait_type": "edition",
+            "value": 126
+        },
+        {
+            "trait_type": "arms",
+            "value": "blueT"
+        },
+        {
+            "trait_type": "background",
+            "value": "midOrangeBackground"
+        },
+        {
+            "trait_type": "body",
+            "value": "darkRedBody"
+        },
+        {
+            "trait_type": "ears",
+            "value": "smallBlue"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wonkeyBlueIris"
+        },
+        {
+            "trait_type": "hair",
+            "value": "goldenFro"
+        },
+        {
+            "trait_type": "head",
+            "value": "paleHead"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "gawking"
+        },
+        {
+            "trait_type": "nose",
+            "value": "grafitti"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 1.916
+        }
+    ]
+}

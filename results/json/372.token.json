@@ -1,0 +1,54 @@
+{
+    "name": "Doodle Doods#372",
+    "image": "ipfs://{REPLACE_WITH_CID}/372.png",
+    "description": "the result of a python code tutorial",
+    "external_url": "https://www.{WEBSITE}.com",
+    "edition": 372,
+    "attributes": [
+        {
+            "trait_type": "edition",
+            "value": 372
+        },
+        {
+            "trait_type": "arms",
+            "value": "redLong"
+        },
+        {
+            "trait_type": "background",
+            "value": "darkBlueBackground"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustOrangeBody"
+        },
+        {
+            "trait_type": "ears",
+            "value": "smallPale"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wonkeyBlueIris"
+        },
+        {
+            "trait_type": "hair",
+            "value": "lightBlueFro"
+        },
+        {
+            "trait_type": "head",
+            "value": "paleHead"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "gawking"
+        },
+        {
+            "trait_type": "nose",
+            "value": "cute"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": 2.19
+        }
+    ]
+}

@@ -5,12 +5,13 @@ from tqdm import tqdm
 from .image_helpers import cleaned, stack_images
 from .generate import lottery
 from .config import FILE_TYPE, LAYER_ORDER
+from .strings import RERUN
 
 PROJECT = project = os.listdir('input')
 
-def compose(imges):
+def compose(images):
     base = None
-    for img in imges:
+    for img in images:
         if base is None:
             base = cleaned(img)
         else:
@@ -35,13 +36,17 @@ def make_image(nft):
     path_list = []
     organized = ordered(nft)
     for attribute, value in organized.items():
-        if attribute in PROJECT:
+        if attribute in PROJECT and value != None:
             path_list.append(in_path(attribute, value))
     completed_image = compose(path_list)
     completed_image.save(out_path(edition))
 
 
 def build_paths():
-    to_print = lottery()
-    for nft in tqdm(to_print):
-        make_image(nft)
+    try:
+        to_print = lottery()
+        for nft in tqdm(to_print):
+            pass
+            make_image(nft)
+    except:
+        print(RERUN)

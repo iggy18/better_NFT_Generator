@@ -1,7 +1,6 @@
 import csv
 import json
-import os
-from .config import ADD_RARITY
+from .config import ADD_RARITY, LAYER_ORDER
 
 def rarity_json(data):
     with open('rarity.json', 'w', encoding='utf-8') as f:
@@ -9,8 +8,8 @@ def rarity_json(data):
         
 def init_CSV():
     with open(r'results/csv/nft.csv', 'a') as f:
-        CSV_HEADERS = os.listdir('input')
-        CSV_HEADERS.insert(0,'edition')
+        CSV_HEADERS = LAYER_ORDER
+        CSV_HEADERS.insert(0, 'edition')
         if ADD_RARITY:
             CSV_HEADERS.append('rarity')
         writer = csv.writer(f)
