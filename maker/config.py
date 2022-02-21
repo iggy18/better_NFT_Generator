@@ -5,7 +5,7 @@ NFT_NAME = 'Doodle Doods'
 DESCRIPTION = "the result of a python code tutorial"
 
 # enter number of desired images here
-NUMBER_OF_DESIRED_IMAGES = 500
+NUMBER_OF_DESIRED_IMAGES = 20
 
 # enter the type of image file you are using including the '.'
 FILE_TYPE = '.png'
@@ -14,7 +14,7 @@ FILE_TYPE = '.png'
 BASE_URI = 'ipfs://{REPLACE_WITH_CID}'
 
 # any website you want to link to
-EXTERNAL_URL = 'https://www.{WEBSITE}.com'
+EXTERNAL_URL = 'https://www.{REPLACE_WITH_WEBSITE}.com'
 
 # True if you want rarity score on csv False if you don't
 ADD_RARITY= True
@@ -58,4 +58,4 @@ CONFLICTING_TRAITS = {
 
 # for optional layers. must be between 1 and desired number of images. 
 # the more numbers you have the more likely it is for the image to have that layer 
-LUCKY_NUMBERS = [2, 25, 225, 52]
+LUCKY_NUMBERS = [2, 5]
