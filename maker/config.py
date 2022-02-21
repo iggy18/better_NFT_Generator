@@ -5,24 +5,31 @@ NFT_NAME = 'Doodle Doods'
 DESCRIPTION = "the result of a python code tutorial"
 
 # enter number of desired images here
+# number of desired images must be mathematically possible.
 NUMBER_OF_DESIRED_IMAGES = 20
 
 # enter the type of image file you are using including the '.'
 FILE_TYPE = '.png'
 
-#base uri/CID you get from IPFS
+# base uri/CID you get from IPFS
+# AFTER you run the program and upload JUST the images to IPFS, you will get a CID 
+# use "find all and replace" feature in your IDE to replace {REPLACE_WITH_CID} with the CID from IPFS
+# this will update each JSON file so it points to the correct image on IPFS
 BASE_URI = 'ipfs://{REPLACE_WITH_CID}'
 
 # any website you want to link to
 EXTERNAL_URL = 'https://www.{REPLACE_WITH_WEBSITE}.com'
 
-# True if you want rarity score on csv False if you don't
-ADD_RARITY= True
+# "True" if you want rarity score on csv AND JSON metadata "False" if you don't
+ADD_RARITY= False
 
-#the order of the layers in the image from left to right (top to bottom)
+#the order of the layers in the image from left to right (bottom to top)
 LAYER_ORDER = ["background", "head", "hair", "nose", "mouth", "eyes", "body", "arms", "logo", "ears", "hat"]
 
 # "folder name: [10, 40, 60, 30, 1]"
+# values to be between 0 and 100. 
+#  1=extremely rare, 100=always
+# "weights are in the same order as the files in the folder 0=top file, 1=file below top, etc."
 WEIGHTS = {
     "background" : [10, 40, 60, 3, 20, 30, 20],
     "head" : [10, 15, 20, 5, 20, 30],
