@@ -1,0 +1,49 @@
+{
+    "name": "Doodle Doods#1",
+    "image": "ipfs://{REPLACE_WITH_CID}/1.png",
+    "description": "the result of a python code tutorial",
+    "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+    "edition": 1,
+    "attributes": [
+        {
+            "trait_type": "edition",
+            "value": 1
+        },
+        {
+            "trait_type": "arms",
+            "value": "redLong"
+        },
+        {
+            "trait_type": "background",
+            "value": "lightBlueBackground"
+        },
+        {
+            "trait_type": "body",
+            "value": "midOrangeBody"
+        },
+        {
+            "trait_type": "ears",
+            "value": "smallPale"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "relaxedYellow"
+        },
+        {
+            "trait_type": "hair",
+            "value": "lightBlueFro"
+        },
+        {
+            "trait_type": "head",
+            "value": "darkOrangeHead"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smirk"
+        },
+        {
+            "trait_type": "nose",
+            "value": "flared"
+        }
+    ]
+}

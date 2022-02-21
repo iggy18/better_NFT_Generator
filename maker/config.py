@@ -6,7 +6,7 @@ DESCRIPTION = "the result of a python code tutorial"
 
 # enter number of desired images here
 # number of desired images must be mathematically possible.
-NUMBER_OF_DESIRED_IMAGES = 20
+NUMBER_OF_DESIRED_IMAGES = 30
 
 # enter the type of image file you are using including the '.'
 FILE_TYPE = '.png'
@@ -60,9 +60,9 @@ OPTIONAL_LAYERS = ["logo", "hat"]
 # this is done to keep the meta data clean 
 # so attributes that aren't in the image are not included in the meta data
 CONFLICTING_TRAITS = {
-    "hat" : ["ears", "mouth", "hair"]
+    "hat" : ["ears", "hair"]
 }
 
 # for optional layers. must be between 1 and desired number of images. 
 # the more numbers you have the more likely it is for the image to have that layer 
-LUCKY_NUMBERS = [2, 5]
+LUCKY_NUMBERS = [2, 5, 25]

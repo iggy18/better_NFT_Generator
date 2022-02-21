@@ -1,0 +1,78 @@
+{
+    "background": {
+        "midOrangeBackground": 0.1,
+        "lightBlueBackground": 0.26666666666666666,
+        "rustRedBackground": 0.03333333333333333,
+        "darkBlueBackground": 0.13333333333333333,
+        "burntOrangeBackground": 0.1,
+        "midBlueBackground": 0.13333333333333333,
+        "lightOrangeBackground": 0.0
+    },
+    "head": {
+        "darkBlueHead": 0.06666666666666667,
+        "darkOrangeHead": 0.1,
+        "lightBlueHead": 0.2,
+        "paleHead": 0.2,
+        "lightOrangeHead": 0.0,
+        "midBlueHead": 0.23333333333333334
+    },
+    "hair": {
+        "goldenFro": 0.13333333333333333,
+        "lightBlueFro": 0.4666666666666667,
+        "redFro": 0.26666666666666666,
+        "null": 0.0
+    },
+    "nose": {
+        "cute": 0.2,
+        "flared": 0.23333333333333334,
+        "round": 0.16666666666666666,
+        "wide": 0.26666666666666666
+    },
+    "mouth": {
+        "goof": 0.3333333333333333,
+        "smirk": 0.3,
+        "gawking": 0.06666666666666667,
+        "cheshire": 0.06666666666666667,
+        "unimpressed": 0.06666666666666667
+    },
+    "eyes": {
+        "wonkeyBlueIris": 0.1,
+        "relaxedYellow": 0.03333333333333333,
+        "hollow": 0.16666666666666666,
+        "relaxedBlue": 0.06666666666666667,
+        "CuteMoments": 0.06666666666666667,
+        "relaxedRed": 0.16666666666666666,
+        "beady": 0.0,
+        "wideCute": 0.1,
+        "toonOrangeIris": 0.0
+    },
+    "body": {
+        "rustOrangeBody": 0.06666666666666667,
+        "midOrangeBody": 0.16666666666666666,
+        "darkRedBody": 0.23333333333333334,
+        "rustRedBody": 0.13333333333333333,
+        "lightBlueBody": 0.13333333333333333,
+        "darkBlueBody": 0.0,
+        "midBlueBody": 0.03333333333333333
+    },
+    "arms": {
+        "yellowT": 0.13333333333333333,
+        "redLong": 0.3,
+        "blueT": 0.4666666666666667
+    },
+    "logo": {
+        "modern": 0.0,
+        "doodFace": 0.06666666666666667
+    },
+    "ears": {
+        "smallBlue": 0.36666666666666664,
+        "smallPale": 0.13333333333333333,
+        "bigDarkBlue": 0.03333333333333333,
+        "bigPale": 0.16666666666666666,
+        "smallOrange": 0.1,
+        "null": 0.0
+    },
+    "hat": {
+        "spaceCase": 0.0
+    }
+}
