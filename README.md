@@ -1,8 +1,5 @@
 # Python NFT Art Generator
-<img src="https://github.com/iggy18/better_NFT_Generator/blob/main/examples/13.png" alt="drawing" width="200"/> <img src="https://github.com/iggy18/better_NFT_Generator/blob/main/examples/14.png alt="drawing" width="200"/>
-
-
-<img src="https://github.com/iggy18/better_NFT_Generator/blob/main/examples/21.png" alt="drawing" width="200"/> <img src="https://github.com/iggy18/better_NFT_Generator/blob/main/examples/32.png" alt="drawing" width="200"/>
+<img src="https://github.com/iggy18/better_NFT_Generator/blob/main/examples/13.png" alt="drawing" width="200"/> <img src="https://github.com/iggy18/better_NFT_Generator/blob/main/examples/14.png" alt="drawing" width="200"/> <img src="https://github.com/iggy18/better_NFT_Generator/blob/main/examples/21.png" alt="drawing" width="200"/> <img src="https://github.com/iggy18/better_NFT_Generator/blob/main/examples/32.png" alt="drawing" width="200"/>
 
 
 
