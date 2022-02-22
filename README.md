@@ -1,5 +1,5 @@
 # Python NFT Art Generator
-<img src=".examples/13.png.jpg" alt="drawing" width="200"/> <img src=".examples/14.png.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/iggy18/better_NFT_Generator/blob/main/examples/13.png" alt="drawing" width="200"/> <img src=".examples/14.png.jpg" alt="drawing" width="200"/>
 
 
 <img src=".examples/32.png.jpg" alt="drawing" width="200"/> <img src=".examples/21.png.jpg" alt="drawing" width="200"/>
