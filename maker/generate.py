@@ -1,9 +1,9 @@
 import random
 
 from .checks import ensure_output_folders_exist
-from .config import WEIGHTS, NUMBER_OF_DESIRED_IMAGES, ADD_RARITY, OPTIONAL_LAYERS, NUMBER_OF_DESIRED_IMAGES, LUCKY_NUMBERS, CONFLICTING_TRAITS, LAYER_ORDER
+from .config import WEIGHTS, NUMBER_OF_DESIRED_IMAGES, ADD_RARITY, INCLUSIVE_OPTIONAL_LAYERS, EXCLUSIVE_OPTIONAL_LAYERS, NUMBER_OF_DESIRED_IMAGES, LUCKY_NUMBERS, CONFLICTING_TRAITS, LAYER_ORDER
 from .inputs import get_files, missing_input_folders
-from .strings import NFTS_ASSEMBLED, REVIEW_MESSAGE, RARE
+from .strings import NFTS_ASSEMBLED, REVIEW_MESSAGE, RARE, IMPOSSIBLE
 from .writers import rarity_json, init_CSV, write_to_CSV, individual_json, json_metadata
 from .nft_json_template import complex_nft_dict
 
@@ -71,10 +71,16 @@ def winner():
         return True
     
 def roll_for_optional_layers(nft):
-    for layer in OPTIONAL_LAYERS:
-                    if winner():
-                        nft[layer] = None
-                        nft[layer] = random.choices(TRAITS_AND_VALUES[layer], weights=WEIGHTS[layer], k=1)[0]
+    for layer in INCLUSIVE_OPTIONAL_LAYERS:
+        if winner():
+            nft[layer] = None
+            nft[layer] = random.choices(TRAITS_AND_VALUES[layer], weights=WEIGHTS[layer], k=1)[0]
+            
+    for layer in EXCLUSIVE_OPTIONAL_LAYERS:
+        if winner():
+            nft[layer] = None
+            nft[layer] = random.choices(TRAITS_AND_VALUES[layer], weights=WEIGHTS[layer], k=1)[0]
+            return
 
 def remove_conflicting_traits(nft):
     for key, value in nft.items():
@@ -84,14 +90,19 @@ def remove_conflicting_traits(nft):
                 for item in CONFLICTING_TRAITS[key]:
                     nft[item] = None
 
-                ################################ THIS is the problem area is it key or value???
-
 def acceptable():
     keep = input(REVIEW_MESSAGE)
     if keep == 'yes':
         return True
     else:
         return False
+    
+def optional_layers(key):
+    if key in INCLUSIVE_OPTIONAL_LAYERS or key in EXCLUSIVE_OPTIONAL_LAYERS:
+        return True
+    else:
+        False
+        
 
 def lottery():
     
@@ -106,10 +117,10 @@ def lottery():
         nft = {}
         nft['edition'] = None
         for key, value in TRAITS_AND_VALUES.items():
-            if key != 'edition' and key not in OPTIONAL_LAYERS:
+            if key != 'edition' and not optional_layers(key):
                 nft[key] = random.choices(value, weights=WEIGHTS[key], k=1)[0]
         
-        if OPTIONAL_LAYERS:
+        if INCLUSIVE_OPTIONAL_LAYERS or EXCLUSIVE_OPTIONAL_LAYERS:
             roll_for_optional_layers(nft)
         
         if CONFLICTING_TRAITS:
@@ -121,7 +132,11 @@ def lottery():
         return nft
 
     for i in range(0, NUMBER_OF_DESIRED_IMAGES):
-        unique_nfts.append(generate_unique_nft())
+        try:
+            unique_nfts.append(generate_unique_nft())
+        except:
+            print(IMPOSSIBLE)
+            return
     
     rarity_dict = tally_values(unique_nfts)
     

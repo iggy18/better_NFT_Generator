@@ -6,7 +6,7 @@ DESCRIPTION = "the result of a python code tutorial"
 
 # enter number of desired images here
 # number of desired images must be mathematically possible.
-NUMBER_OF_DESIRED_IMAGES = 30
+NUMBER_OF_DESIRED_IMAGES = 40
 
 # enter the type of image file you are using including the '.'
 FILE_TYPE = '.png'
@@ -24,7 +24,7 @@ EXTERNAL_URL = 'https://www.{REPLACE_WITH_WEBSITE}.com'
 ADD_RARITY= False
 
 #the order of the layers in the image from left to right (bottom to top)
-LAYER_ORDER = ["background", "head", "hair", "nose", "mouth", "eyes", "body", "arms", "logo", "ears", "hat"]
+LAYER_ORDER = ["background", "head", "hair", "nose", "mouth", "eyes", "body", "arms", "logo", "ears", "hat", "slacker"]
 
 # "folder name: [10, 40, 60, 30, 1]"
 # values to be between 0 and 100. 
@@ -41,17 +41,21 @@ WEIGHTS = {
     "arms" : [50, 50, 10],
     "logo" : [60, 40],
     "ears" : [10, 40, 60, 30, 25],
-    "hat" : [100]
+    "hat" : [100], 
+    "slacker" : [100]
 }
 
 #(((((((((((((((((((((((((((((((ADVANCED OPTIONS)))))))))))))))))))))))))))))))
 
 # layers that are optional. not every image will contain them
 # leave empty if you don't have optional layers
-OPTIONAL_LAYERS = ["logo", "hat"]
+# use exclusive layers to indicate that only one of the layers can be used per image. if one is chosen, the others can not be on the same image
+# use inclusive layers to indicate that any of the layers can be used on the same image 
+INCLUSIVE_OPTIONAL_LAYERS = ["logo"]
+EXCLUSIVE_OPTIONAL_LAYERS = ["hat", "slacker"]
 
 # for use with optional layers
-# if you have a trait that can not exist with other traits, add it here 
+# if you have a trait that can not exist with other trait values, add that here 
 # ex: 
 # "sunglasses" : ["eyes"],
 # "motorcycleHelmet" : ["eyes", "ears", "hat", "nose", "mouth"]
@@ -60,9 +64,10 @@ OPTIONAL_LAYERS = ["logo", "hat"]
 # this is done to keep the meta data clean 
 # so attributes that aren't in the image are not included in the meta data
 CONFLICTING_TRAITS = {
-    "hat" : ["ears", "hair"]
+    "hat" : ["ears", "hair"], 
+    "slacker" : ["ears", "mouth", "hair"]
 }
 
 # for optional layers. must be between 1 and desired number of images. 
 # the more numbers you have the more likely it is for the image to have that layer 
-LUCKY_NUMBERS = [2, 5, 25]
+LUCKY_NUMBERS = [2, 5, 25, 7]

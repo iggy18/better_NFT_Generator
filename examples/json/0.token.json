@@ -1,13 +1,13 @@
 {
-    "name": "Doodle Doods#10",
-    "image": "ipfs://{REPLACE_WITH_CID}/10.png",
+    "name": "Doodle Doods#0",
+    "image": "ipfs://{REPLACE_WITH_CID}/0.png",
     "description": "the result of a python code tutorial",
     "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-    "edition": 10,
+    "edition": 0,
     "attributes": [
         {
             "trait_type": "edition",
-            "value": 10
+            "value": 0
         },
         {
             "trait_type": "arms",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "background",
-            "value": "midBlueBackground"
+            "value": "lightBlueBackground"
         },
         {
             "trait_type": "body",
-            "value": "lightBlueBody"
+            "value": "darkRedBody"
         },
         {
             "trait_type": "ears",
-            "value": "smallPale"
+            "value": "smallBlue"
         },
         {
             "trait_type": "eyes",
-            "value": "wonkeyBlueIris"
+            "value": "hollow"
         },
         {
             "trait_type": "hair",
-            "value": "lightBlueFro"
+            "value": "redFro"
         },
         {
             "trait_type": "head",
-            "value": "midBlueHead"
+            "value": "darkBlueHead"
         },
         {
             "trait_type": "mouth",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "nose",
-            "value": "cute"
+            "value": "grafitti"
         }
     ]
 }

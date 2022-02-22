@@ -1,3 +1,11 @@
+# Python NFT Art Generator
+<img src="examples/13.png.jpg" alt="drawing" width="200"/> <img src="examples/14.png.jpg" alt="drawing" width="200"/>
+
+
+<img src="examples/32.png.jpg" alt="drawing" width="200"/> <img src="examples/21.png.jpg" alt="drawing" width="200"/>
+
+
+
 # input
 
 
@@ -13,10 +21,10 @@
 - the name of each file will be the name of your values 
 
 
-- ** WARNING: there can be no repeated names for folders or files. All folders and files must have unique names **
+**WARNING: there can be no repeated names for folders or files. All folders and files must have unique names**
 
 
-- ** WARNING: folders and files can not contain numbers, spaces or special characters. **
+**WARNING: folders and files can not contain numbers, spaces or special characters.**
 
 
 
@@ -63,7 +71,7 @@
 - fill out the config file (in the "maker" folder) with your values
 
 
-- run the program by typing `pythhon __main__.py` in the terminal
+- run the program by typing `python make_art.py` in the terminal
 
 
 - you will be prompted to review the rarity.json file

@@ -1,25 +1,25 @@
 {
-    "name": "Doodle Doods#27",
-    "image": "ipfs://{REPLACE_WITH_CID}/27.png",
+    "name": "Doodle Doods#1",
+    "image": "ipfs://{REPLACE_WITH_CID}/1.png",
     "description": "the result of a python code tutorial",
     "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-    "edition": 27,
+    "edition": 1,
     "attributes": [
         {
             "trait_type": "edition",
-            "value": 27
+            "value": 1
         },
         {
             "trait_type": "arms",
-            "value": "yellowT"
+            "value": "blueT"
         },
         {
             "trait_type": "background",
-            "value": "lightOrangeBackground"
+            "value": "lightBlueBackground"
         },
         {
             "trait_type": "body",
-            "value": "rustOrangeBody"
+            "value": "midOrangeBody"
         },
         {
             "trait_type": "ears",
@@ -27,7 +27,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "wideCute"
+            "value": "wonkeyOrangeIris"
         },
         {
             "trait_type": "hair",
@@ -35,15 +35,15 @@
         },
         {
             "trait_type": "head",
-            "value": "midBlueHead"
+            "value": "lightOrangeHead"
         },
         {
             "trait_type": "mouth",
-            "value": "smirk"
+            "value": "unimpressed"
         },
         {
             "trait_type": "nose",
-            "value": "cute"
+            "value": "wide"
         }
     ]
 }

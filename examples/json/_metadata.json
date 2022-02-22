@@ -12,15 +12,15 @@
             },
             {
                 "trait_type": "arms",
-                "value": "yellowT"
+                "value": "blueT"
             },
             {
                 "trait_type": "background",
-                "value": "midOrangeBackground"
+                "value": "lightBlueBackground"
             },
             {
                 "trait_type": "body",
-                "value": "rustOrangeBody"
+                "value": "darkRedBody"
             },
             {
                 "trait_type": "ears",
@@ -28,11 +28,11 @@
             },
             {
                 "trait_type": "eyes",
-                "value": "wonkeyBlueIris"
+                "value": "hollow"
             },
             {
                 "trait_type": "hair",
-                "value": "goldenFro"
+                "value": "redFro"
             },
             {
                 "trait_type": "head",
@@ -44,7 +44,7 @@
             },
             {
                 "trait_type": "nose",
-                "value": "cute"
+                "value": "grafitti"
             }
         ]
     },
@@ -61,7 +61,7 @@
             },
             {
                 "trait_type": "arms",
-                "value": "redLong"
+                "value": "blueT"
             },
             {
                 "trait_type": "background",
@@ -73,27 +73,27 @@
             },
             {
                 "trait_type": "ears",
-                "value": "smallPale"
+                "value": "bigPale"
             },
             {
                 "trait_type": "eyes",
-                "value": "relaxedYellow"
+                "value": "wonkeyOrangeIris"
             },
             {
                 "trait_type": "hair",
-                "value": "lightBlueFro"
+                "value": "redFro"
             },
             {
                 "trait_type": "head",
-                "value": "darkOrangeHead"
+                "value": "lightOrangeHead"
             },
             {
                 "trait_type": "mouth",
-                "value": "smirk"
+                "value": "unimpressed"
             },
             {
                 "trait_type": "nose",
-                "value": "flared"
+                "value": "wide"
             }
         ]
     },
@@ -110,19 +110,19 @@
             },
             {
                 "trait_type": "arms",
-                "value": "blueT"
+                "value": "redLong"
             },
             {
                 "trait_type": "background",
-                "value": "lightBlueBackground"
+                "value": "darkBlueBackground"
             },
             {
                 "trait_type": "body",
-                "value": "darkRedBody"
+                "value": "darkBlueBody"
             },
             {
                 "trait_type": "ears",
-                "value": "bigDarkBlue"
+                "value": "smallBlue"
             },
             {
                 "trait_type": "eyes",
@@ -134,15 +134,15 @@
             },
             {
                 "trait_type": "head",
-                "value": "darkBlueHead"
+                "value": "lightBlueHead"
             },
             {
                 "trait_type": "mouth",
-                "value": "gawking"
+                "value": "unimpressed"
             },
             {
                 "trait_type": "nose",
-                "value": "round"
+                "value": "cute"
             }
         ]
     },
@@ -159,23 +159,23 @@
             },
             {
                 "trait_type": "arms",
-                "value": "redLong"
+                "value": "blueT"
             },
             {
                 "trait_type": "background",
-                "value": "rustRedBackground"
+                "value": "lightBlueBackground"
             },
             {
                 "trait_type": "body",
-                "value": "rustOrangeBody"
+                "value": "rustRedBody"
             },
             {
                 "trait_type": "ears",
-                "value": "bigPale"
+                "value": "smallPale"
             },
             {
                 "trait_type": "eyes",
-                "value": "relaxedBlue"
+                "value": "wideCute"
             },
             {
                 "trait_type": "hair",
@@ -183,15 +183,15 @@
             },
             {
                 "trait_type": "head",
-                "value": "lightBlueHead"
+                "value": "darkBlueHead"
             },
             {
                 "trait_type": "mouth",
-                "value": "goof"
+                "value": "smirk"
             },
             {
                 "trait_type": "nose",
-                "value": "wide"
+                "value": "flared"
             }
         ]
     },
@@ -224,15 +224,15 @@
             },
             {
                 "trait_type": "eyes",
-                "value": "CuteMoments"
+                "value": "relaxedBlue"
             },
             {
                 "trait_type": "hair",
-                "value": "goldenFro"
+                "value": "redFro"
             },
             {
                 "trait_type": "head",
-                "value": "paleHead"
+                "value": "darkBlueHead"
             },
             {
                 "trait_type": "mouth",
@@ -240,7 +240,7 @@
             },
             {
                 "trait_type": "nose",
-                "value": "flared"
+                "value": "wide"
             }
         ]
     },
@@ -257,7 +257,7 @@
             },
             {
                 "trait_type": "arms",
-                "value": "blueT"
+                "value": "redLong"
             },
             {
                 "trait_type": "background",
@@ -265,27 +265,27 @@
             },
             {
                 "trait_type": "body",
-                "value": "lightBlueBody"
+                "value": "midOrangeBody"
             },
             {
                 "trait_type": "ears",
-                "value": "smallOrange"
+                "value": "smallPale"
             },
             {
                 "trait_type": "eyes",
-                "value": "hollow"
+                "value": "wideCute"
             },
             {
                 "trait_type": "hair",
-                "value": "redFro"
+                "value": "antlers"
             },
             {
                 "trait_type": "head",
-                "value": "lightOrangeHead"
+                "value": "midBlueHead"
             },
             {
                 "trait_type": "mouth",
-                "value": "goof"
+                "value": "gawking"
             },
             {
                 "trait_type": "nose",
@@ -314,31 +314,23 @@
             },
             {
                 "trait_type": "body",
-                "value": "midOrangeBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "smallBlue"
+                "value": "midBlueBody"
             },
             {
                 "trait_type": "eyes",
-                "value": "relaxedRed"
-            },
-            {
-                "trait_type": "hair",
-                "value": "lightBlueFro"
+                "value": "wideCute"
             },
             {
                 "trait_type": "head",
-                "value": "lightBlueHead"
-            },
-            {
-                "trait_type": "mouth",
-                "value": "cheshire"
+                "value": "midBlueHead"
             },
             {
                 "trait_type": "nose",
-                "value": "wide"
+                "value": "flared"
+            },
+            {
+                "trait_type": "slacker",
+                "value": "hipster"
             }
         ]
     },
@@ -359,19 +351,19 @@
             },
             {
                 "trait_type": "background",
-                "value": "midOrangeBackground"
+                "value": "lightBlueBackground"
             },
             {
                 "trait_type": "body",
-                "value": "darkRedBody"
+                "value": "midBlueBody"
             },
             {
                 "trait_type": "ears",
-                "value": "smallBlue"
+                "value": "bigPale"
             },
             {
                 "trait_type": "eyes",
-                "value": "relaxedRed"
+                "value": "relaxedBlue"
             },
             {
                 "trait_type": "hair",
@@ -383,11 +375,11 @@
             },
             {
                 "trait_type": "mouth",
-                "value": "smirk"
+                "value": "unimpressed"
             },
             {
                 "trait_type": "nose",
-                "value": "flared"
+                "value": "cute"
             }
         ]
     },
@@ -404,7 +396,7 @@
             },
             {
                 "trait_type": "arms",
-                "value": "yellowT"
+                "value": "blueT"
             },
             {
                 "trait_type": "background",
@@ -415,20 +407,12 @@
                 "value": "rustRedBody"
             },
             {
-                "trait_type": "ears",
-                "value": "smallBlue"
-            },
-            {
                 "trait_type": "eyes",
-                "value": "hollow"
-            },
-            {
-                "trait_type": "hair",
-                "value": "lightBlueFro"
+                "value": "beady"
             },
             {
                 "trait_type": "head",
-                "value": "lightBlueHead"
+                "value": "midBlueHead"
             },
             {
                 "trait_type": "mouth",
@@ -437,6 +421,10 @@
             {
                 "trait_type": "nose",
                 "value": "cute"
+            },
+            {
+                "trait_type": "hat",
+                "value": "spaceCase"
             }
         ]
     },
@@ -454,308 +442,6 @@
             {
                 "trait_type": "arms",
                 "value": "redLong"
-            },
-            {
-                "trait_type": "background",
-                "value": "burntOrangeBackground"
-            },
-            {
-                "trait_type": "body",
-                "value": "midOrangeBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "smallBlue"
-            },
-            {
-                "trait_type": "eyes",
-                "value": "relaxedBlue"
-            },
-            {
-                "trait_type": "hair",
-                "value": "lightBlueFro"
-            },
-            {
-                "trait_type": "head",
-                "value": "midBlueHead"
-            },
-            {
-                "trait_type": "mouth",
-                "value": "goof"
-            },
-            {
-                "trait_type": "nose",
-                "value": "flared"
-            }
-        ]
-    },
-    {
-        "name": "Doodle Doods#10",
-        "image": "ipfs://{REPLACE_WITH_CID}/10.png",
-        "description": "the result of a python code tutorial",
-        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-        "edition": 10,
-        "attributes": [
-            {
-                "trait_type": "edition",
-                "value": 10
-            },
-            {
-                "trait_type": "arms",
-                "value": "blueT"
-            },
-            {
-                "trait_type": "background",
-                "value": "midBlueBackground"
-            },
-            {
-                "trait_type": "body",
-                "value": "lightBlueBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "smallPale"
-            },
-            {
-                "trait_type": "eyes",
-                "value": "wonkeyBlueIris"
-            },
-            {
-                "trait_type": "hair",
-                "value": "lightBlueFro"
-            },
-            {
-                "trait_type": "head",
-                "value": "midBlueHead"
-            },
-            {
-                "trait_type": "mouth",
-                "value": "goof"
-            },
-            {
-                "trait_type": "nose",
-                "value": "cute"
-            }
-        ]
-    },
-    {
-        "name": "Doodle Doods#11",
-        "image": "ipfs://{REPLACE_WITH_CID}/11.png",
-        "description": "the result of a python code tutorial",
-        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-        "edition": 11,
-        "attributes": [
-            {
-                "trait_type": "edition",
-                "value": 11
-            },
-            {
-                "trait_type": "arms",
-                "value": "blueT"
-            },
-            {
-                "trait_type": "background",
-                "value": "midBlueBackground"
-            },
-            {
-                "trait_type": "body",
-                "value": "midOrangeBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "smallOrange"
-            },
-            {
-                "trait_type": "eyes",
-                "value": "beady"
-            },
-            {
-                "trait_type": "hair",
-                "value": "lightBlueFro"
-            },
-            {
-                "trait_type": "head",
-                "value": "lightBlueHead"
-            },
-            {
-                "trait_type": "mouth",
-                "value": "smirk"
-            },
-            {
-                "trait_type": "nose",
-                "value": "flared"
-            }
-        ]
-    },
-    {
-        "name": "Doodle Doods#12",
-        "image": "ipfs://{REPLACE_WITH_CID}/12.png",
-        "description": "the result of a python code tutorial",
-        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-        "edition": 12,
-        "attributes": [
-            {
-                "trait_type": "edition",
-                "value": 12
-            },
-            {
-                "trait_type": "arms",
-                "value": "blueT"
-            },
-            {
-                "trait_type": "background",
-                "value": "burntOrangeBackground"
-            },
-            {
-                "trait_type": "body",
-                "value": "lightBlueBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "smallBlue"
-            },
-            {
-                "trait_type": "eyes",
-                "value": "wonkeyBlueIris"
-            },
-            {
-                "trait_type": "hair",
-                "value": "lightBlueFro"
-            },
-            {
-                "trait_type": "head",
-                "value": "paleHead"
-            },
-            {
-                "trait_type": "mouth",
-                "value": "goof"
-            },
-            {
-                "trait_type": "nose",
-                "value": "wide"
-            },
-            {
-                "trait_type": "logo",
-                "value": "modern"
-            }
-        ]
-    },
-    {
-        "name": "Doodle Doods#13",
-        "image": "ipfs://{REPLACE_WITH_CID}/13.png",
-        "description": "the result of a python code tutorial",
-        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-        "edition": 13,
-        "attributes": [
-            {
-                "trait_type": "edition",
-                "value": 13
-            },
-            {
-                "trait_type": "arms",
-                "value": "redLong"
-            },
-            {
-                "trait_type": "background",
-                "value": "midBlueBackground"
-            },
-            {
-                "trait_type": "body",
-                "value": "darkRedBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "bigPale"
-            },
-            {
-                "trait_type": "eyes",
-                "value": "CuteMoments"
-            },
-            {
-                "trait_type": "hair",
-                "value": "lightBlueFro"
-            },
-            {
-                "trait_type": "head",
-                "value": "midBlueHead"
-            },
-            {
-                "trait_type": "mouth",
-                "value": "cheshire"
-            },
-            {
-                "trait_type": "nose",
-                "value": "cute"
-            },
-            {
-                "trait_type": "logo",
-                "value": "doodFace"
-            }
-        ]
-    },
-    {
-        "name": "Doodle Doods#14",
-        "image": "ipfs://{REPLACE_WITH_CID}/14.png",
-        "description": "the result of a python code tutorial",
-        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-        "edition": 14,
-        "attributes": [
-            {
-                "trait_type": "edition",
-                "value": 14
-            },
-            {
-                "trait_type": "arms",
-                "value": "blueT"
-            },
-            {
-                "trait_type": "background",
-                "value": "burntOrangeBackground"
-            },
-            {
-                "trait_type": "body",
-                "value": "midOrangeBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "smallOrange"
-            },
-            {
-                "trait_type": "eyes",
-                "value": "hollow"
-            },
-            {
-                "trait_type": "hair",
-                "value": "lightBlueFro"
-            },
-            {
-                "trait_type": "head",
-                "value": "midBlueHead"
-            },
-            {
-                "trait_type": "mouth",
-                "value": "smirk"
-            },
-            {
-                "trait_type": "nose",
-                "value": "cute"
-            }
-        ]
-    },
-    {
-        "name": "Doodle Doods#15",
-        "image": "ipfs://{REPLACE_WITH_CID}/15.png",
-        "description": "the result of a python code tutorial",
-        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-        "edition": 15,
-        "attributes": [
-            {
-                "trait_type": "edition",
-                "value": 15
-            },
-            {
-                "trait_type": "arms",
-                "value": "blueT"
             },
             {
                 "trait_type": "background",
@@ -779,7 +465,7 @@
             },
             {
                 "trait_type": "head",
-                "value": "paleHead"
+                "value": "darkOrangeHead"
             },
             {
                 "trait_type": "mouth",
@@ -787,7 +473,297 @@
             },
             {
                 "trait_type": "nose",
-                "value": "wide"
+                "value": "flared"
+            },
+            {
+                "trait_type": "logo",
+                "value": "botman"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#10",
+        "image": "ipfs://{REPLACE_WITH_CID}/10.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 10,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 10
+            },
+            {
+                "trait_type": "arms",
+                "value": "redLong"
+            },
+            {
+                "trait_type": "background",
+                "value": "lightBlueBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "lightBlueBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "smallOrange"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "relaxedRed"
+            },
+            {
+                "trait_type": "hair",
+                "value": "lightBlueFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "darkOrangeHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "unimpressed"
+            },
+            {
+                "trait_type": "nose",
+                "value": "flared"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#11",
+        "image": "ipfs://{REPLACE_WITH_CID}/11.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 11,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 11
+            },
+            {
+                "trait_type": "arms",
+                "value": "blueT"
+            },
+            {
+                "trait_type": "background",
+                "value": "rustRedBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "rustRedBody"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyOrangeIris"
+            },
+            {
+                "trait_type": "head",
+                "value": "lightOrangeHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "unimpressed"
+            },
+            {
+                "trait_type": "nose",
+                "value": "round"
+            },
+            {
+                "trait_type": "hat",
+                "value": "spaceCase"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#12",
+        "image": "ipfs://{REPLACE_WITH_CID}/12.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 12,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 12
+            },
+            {
+                "trait_type": "arms",
+                "value": "blueT"
+            },
+            {
+                "trait_type": "background",
+                "value": "midOrangeBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "darkRedBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "smallBlue"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "beady"
+            },
+            {
+                "trait_type": "hair",
+                "value": "redFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "midBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "goof"
+            },
+            {
+                "trait_type": "nose",
+                "value": "flared"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#13",
+        "image": "ipfs://{REPLACE_WITH_CID}/13.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 13,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 13
+            },
+            {
+                "trait_type": "arms",
+                "value": "blueT"
+            },
+            {
+                "trait_type": "background",
+                "value": "midBlueBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "rustOrangeBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "bigDarkBlue"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "hollow"
+            },
+            {
+                "trait_type": "hair",
+                "value": "antlers"
+            },
+            {
+                "trait_type": "head",
+                "value": "midBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirk"
+            },
+            {
+                "trait_type": "nose",
+                "value": "round"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#14",
+        "image": "ipfs://{REPLACE_WITH_CID}/14.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 14,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 14
+            },
+            {
+                "trait_type": "arms",
+                "value": "blueT"
+            },
+            {
+                "trait_type": "background",
+                "value": "lightBlueBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "midBlueBody"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "relaxedRed"
+            },
+            {
+                "trait_type": "head",
+                "value": "midBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirk"
+            },
+            {
+                "trait_type": "nose",
+                "value": "round"
+            },
+            {
+                "trait_type": "hat",
+                "value": "spaceCase"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#15",
+        "image": "ipfs://{REPLACE_WITH_CID}/15.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 15,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 15
+            },
+            {
+                "trait_type": "arms",
+                "value": "blueT"
+            },
+            {
+                "trait_type": "background",
+                "value": "darkBlueBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "midBlueBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "smallBlue"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "relaxedRed"
+            },
+            {
+                "trait_type": "hair",
+                "value": "redFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "midBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "goof"
+            },
+            {
+                "trait_type": "nose",
+                "value": "round"
             }
         ]
     },
@@ -812,23 +788,15 @@
             },
             {
                 "trait_type": "body",
-                "value": "darkRedBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "bigPale"
+                "value": "rustRedBody"
             },
             {
                 "trait_type": "eyes",
                 "value": "hollow"
             },
             {
-                "trait_type": "hair",
-                "value": "lightBlueFro"
-            },
-            {
                 "trait_type": "head",
-                "value": "lightBlueHead"
+                "value": "darkOrangeHead"
             },
             {
                 "trait_type": "mouth",
@@ -836,7 +804,11 @@
             },
             {
                 "trait_type": "nose",
-                "value": "flared"
+                "value": "cute"
+            },
+            {
+                "trait_type": "hat",
+                "value": "spaceCase"
             }
         ]
     },
@@ -861,260 +833,15 @@
             },
             {
                 "trait_type": "body",
-                "value": "darkBlueBody"
+                "value": "rustOrangeBody"
             },
             {
                 "trait_type": "ears",
-                "value": "smallBlue"
+                "value": "smallOrange"
             },
             {
                 "trait_type": "eyes",
-                "value": "wideCute"
-            },
-            {
-                "trait_type": "hair",
-                "value": "redFro"
-            },
-            {
-                "trait_type": "head",
-                "value": "paleHead"
-            },
-            {
-                "trait_type": "mouth",
-                "value": "gawking"
-            },
-            {
-                "trait_type": "nose",
-                "value": "wide"
-            }
-        ]
-    },
-    {
-        "name": "Doodle Doods#18",
-        "image": "ipfs://{REPLACE_WITH_CID}/18.png",
-        "description": "the result of a python code tutorial",
-        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-        "edition": 18,
-        "attributes": [
-            {
-                "trait_type": "edition",
-                "value": 18
-            },
-            {
-                "trait_type": "arms",
-                "value": "blueT"
-            },
-            {
-                "trait_type": "background",
-                "value": "midOrangeBackground"
-            },
-            {
-                "trait_type": "body",
-                "value": "darkRedBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "bigPale"
-            },
-            {
-                "trait_type": "eyes",
-                "value": "relaxedRed"
-            },
-            {
-                "trait_type": "hair",
-                "value": "lightBlueFro"
-            },
-            {
-                "trait_type": "head",
-                "value": "darkOrangeHead"
-            },
-            {
-                "trait_type": "mouth",
-                "value": "goof"
-            },
-            {
-                "trait_type": "nose",
-                "value": "round"
-            }
-        ]
-    },
-    {
-        "name": "Doodle Doods#19",
-        "image": "ipfs://{REPLACE_WITH_CID}/19.png",
-        "description": "the result of a python code tutorial",
-        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-        "edition": 19,
-        "attributes": [
-            {
-                "trait_type": "edition",
-                "value": 19
-            },
-            {
-                "trait_type": "arms",
-                "value": "redLong"
-            },
-            {
-                "trait_type": "background",
-                "value": "darkBlueBackground"
-            },
-            {
-                "trait_type": "body",
-                "value": "midBlueBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "smallPale"
-            },
-            {
-                "trait_type": "eyes",
-                "value": "hollow"
-            },
-            {
-                "trait_type": "hair",
-                "value": "goldenFro"
-            },
-            {
-                "trait_type": "head",
-                "value": "paleHead"
-            },
-            {
-                "trait_type": "mouth",
-                "value": "goof"
-            },
-            {
-                "trait_type": "nose",
-                "value": "wide"
-            }
-        ]
-    },
-    {
-        "name": "Doodle Doods#20",
-        "image": "ipfs://{REPLACE_WITH_CID}/20.png",
-        "description": "the result of a python code tutorial",
-        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-        "edition": 20,
-        "attributes": [
-            {
-                "trait_type": "edition",
-                "value": 20
-            },
-            {
-                "trait_type": "arms",
-                "value": "redLong"
-            },
-            {
-                "trait_type": "background",
-                "value": "lightBlueBackground"
-            },
-            {
-                "trait_type": "body",
-                "value": "darkRedBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "bigPale"
-            },
-            {
-                "trait_type": "eyes",
-                "value": "CuteMoments"
-            },
-            {
-                "trait_type": "hair",
-                "value": "lightBlueFro"
-            },
-            {
-                "trait_type": "head",
-                "value": "darkBlueHead"
-            },
-            {
-                "trait_type": "mouth",
-                "value": "unimpressed"
-            },
-            {
-                "trait_type": "nose",
-                "value": "flared"
-            }
-        ]
-    },
-    {
-        "name": "Doodle Doods#21",
-        "image": "ipfs://{REPLACE_WITH_CID}/21.png",
-        "description": "the result of a python code tutorial",
-        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-        "edition": 21,
-        "attributes": [
-            {
-                "trait_type": "edition",
-                "value": 21
-            },
-            {
-                "trait_type": "arms",
-                "value": "yellowT"
-            },
-            {
-                "trait_type": "background",
-                "value": "midOrangeBackground"
-            },
-            {
-                "trait_type": "body",
-                "value": "darkRedBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "smallPale"
-            },
-            {
-                "trait_type": "eyes",
-                "value": "wideCute"
-            },
-            {
-                "trait_type": "hair",
-                "value": "lightBlueFro"
-            },
-            {
-                "trait_type": "head",
-                "value": "midBlueHead"
-            },
-            {
-                "trait_type": "mouth",
-                "value": "smirk"
-            },
-            {
-                "trait_type": "nose",
-                "value": "wide"
-            }
-        ]
-    },
-    {
-        "name": "Doodle Doods#22",
-        "image": "ipfs://{REPLACE_WITH_CID}/22.png",
-        "description": "the result of a python code tutorial",
-        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
-        "edition": 22,
-        "attributes": [
-            {
-                "trait_type": "edition",
-                "value": 22
-            },
-            {
-                "trait_type": "arms",
-                "value": "redLong"
-            },
-            {
-                "trait_type": "background",
-                "value": "darkBlueBackground"
-            },
-            {
-                "trait_type": "body",
-                "value": "lightBlueBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "smallBlue"
-            },
-            {
-                "trait_type": "eyes",
-                "value": "relaxedYellow"
+                "value": "relaxedBlue"
             },
             {
                 "trait_type": "hair",
@@ -1131,6 +858,263 @@
             {
                 "trait_type": "nose",
                 "value": "wide"
+            },
+            {
+                "trait_type": "logo",
+                "value": "modern"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#18",
+        "image": "ipfs://{REPLACE_WITH_CID}/18.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 18,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 18
+            },
+            {
+                "trait_type": "arms",
+                "value": "redLong"
+            },
+            {
+                "trait_type": "background",
+                "value": "midOrangeBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "midBlueBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "bigPale"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "hollow"
+            },
+            {
+                "trait_type": "hair",
+                "value": "lightBlueFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "darkOrangeHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "unimpressed"
+            },
+            {
+                "trait_type": "nose",
+                "value": "flared"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#19",
+        "image": "ipfs://{REPLACE_WITH_CID}/19.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 19,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 19
+            },
+            {
+                "trait_type": "arms",
+                "value": "blueT"
+            },
+            {
+                "trait_type": "background",
+                "value": "darkBlueBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "rustOrangeBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "smallBlue"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyBlueIris"
+            },
+            {
+                "trait_type": "hair",
+                "value": "lightBlueFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "midBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirk"
+            },
+            {
+                "trait_type": "nose",
+                "value": "cute"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#20",
+        "image": "ipfs://{REPLACE_WITH_CID}/20.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 20,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 20
+            },
+            {
+                "trait_type": "arms",
+                "value": "blueT"
+            },
+            {
+                "trait_type": "background",
+                "value": "midOrangeBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "darkRedBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "smallBlue"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "relaxedBlue"
+            },
+            {
+                "trait_type": "hair",
+                "value": "lightBlueFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "midBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "goof"
+            },
+            {
+                "trait_type": "nose",
+                "value": "wide"
+            },
+            {
+                "trait_type": "logo",
+                "value": "botman"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#21",
+        "image": "ipfs://{REPLACE_WITH_CID}/21.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 21,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 21
+            },
+            {
+                "trait_type": "arms",
+                "value": "redLong"
+            },
+            {
+                "trait_type": "background",
+                "value": "midBlueBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "darkRedBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "smallOrange"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "beady"
+            },
+            {
+                "trait_type": "hair",
+                "value": "lightBlueFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "lightBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirk"
+            },
+            {
+                "trait_type": "nose",
+                "value": "flared"
+            },
+            {
+                "trait_type": "logo",
+                "value": "botman"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#22",
+        "image": "ipfs://{REPLACE_WITH_CID}/22.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 22,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 22
+            },
+            {
+                "trait_type": "arms",
+                "value": "yellowT"
+            },
+            {
+                "trait_type": "background",
+                "value": "rustRedBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "darkRedBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "smallOrange"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "relaxedRed"
+            },
+            {
+                "trait_type": "hair",
+                "value": "lightBlueFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "paleHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "goof"
+            },
+            {
+                "trait_type": "nose",
+                "value": "flared"
             }
         ]
     },
@@ -1151,31 +1135,31 @@
             },
             {
                 "trait_type": "background",
-                "value": "midBlueBackground"
+                "value": "lightBlueBackground"
             },
             {
                 "trait_type": "body",
-                "value": "lightBlueBody"
+                "value": "midBlueBody"
             },
             {
                 "trait_type": "ears",
-                "value": "smallBlue"
+                "value": "bigPale"
             },
             {
                 "trait_type": "eyes",
-                "value": "relaxedRed"
+                "value": "hollow"
             },
             {
                 "trait_type": "hair",
-                "value": "redFro"
+                "value": "goldenFro"
             },
             {
                 "trait_type": "head",
-                "value": "midBlueHead"
+                "value": "lightBlueHead"
             },
             {
                 "trait_type": "mouth",
-                "value": "goof"
+                "value": "cheshire"
             },
             {
                 "trait_type": "nose",
@@ -1200,15 +1184,15 @@
             },
             {
                 "trait_type": "background",
-                "value": "burntOrangeBackground"
+                "value": "lightBlueBackground"
             },
             {
                 "trait_type": "body",
-                "value": "darkRedBody"
+                "value": "midBlueBody"
             },
             {
                 "trait_type": "eyes",
-                "value": "relaxedBlue"
+                "value": "relaxedRed"
             },
             {
                 "trait_type": "head",
@@ -1216,15 +1200,11 @@
             },
             {
                 "trait_type": "mouth",
-                "value": "gawking"
+                "value": "smirk"
             },
             {
                 "trait_type": "nose",
-                "value": "round"
-            },
-            {
-                "trait_type": "logo",
-                "value": "doodFace"
+                "value": "cute"
             },
             {
                 "trait_type": "hat",
@@ -1245,15 +1225,15 @@
             },
             {
                 "trait_type": "arms",
-                "value": "blueT"
+                "value": "redLong"
             },
             {
                 "trait_type": "background",
-                "value": "lightBlueBackground"
+                "value": "rustRedBackground"
             },
             {
                 "trait_type": "body",
-                "value": "rustRedBody"
+                "value": "midBlueBody"
             },
             {
                 "trait_type": "ears",
@@ -1261,7 +1241,7 @@
             },
             {
                 "trait_type": "eyes",
-                "value": "wideCute"
+                "value": "relaxedRed"
             },
             {
                 "trait_type": "hair",
@@ -1269,7 +1249,7 @@
             },
             {
                 "trait_type": "head",
-                "value": "darkOrangeHead"
+                "value": "lightBlueHead"
             },
             {
                 "trait_type": "mouth",
@@ -1298,23 +1278,15 @@
             },
             {
                 "trait_type": "background",
-                "value": "midBlueBackground"
+                "value": "lightOrangeBackground"
             },
             {
                 "trait_type": "body",
-                "value": "rustRedBody"
-            },
-            {
-                "trait_type": "ears",
-                "value": "smallOrange"
+                "value": "midBlueBody"
             },
             {
                 "trait_type": "eyes",
-                "value": "relaxedRed"
-            },
-            {
-                "trait_type": "hair",
-                "value": "redFro"
+                "value": "hollow"
             },
             {
                 "trait_type": "head",
@@ -1322,11 +1294,15 @@
             },
             {
                 "trait_type": "mouth",
-                "value": "unimpressed"
+                "value": "goof"
             },
             {
                 "trait_type": "nose",
-                "value": "wide"
+                "value": "round"
+            },
+            {
+                "trait_type": "hat",
+                "value": "spaceCase"
             }
         ]
     },
@@ -1343,39 +1319,39 @@
             },
             {
                 "trait_type": "arms",
-                "value": "yellowT"
+                "value": "blueT"
             },
             {
                 "trait_type": "background",
-                "value": "lightOrangeBackground"
+                "value": "lightBlueBackground"
             },
             {
                 "trait_type": "body",
-                "value": "rustOrangeBody"
+                "value": "darkRedBody"
             },
             {
                 "trait_type": "ears",
-                "value": "bigPale"
+                "value": "smallBlue"
             },
             {
                 "trait_type": "eyes",
-                "value": "wideCute"
+                "value": "wonkeyBlueIris"
             },
             {
                 "trait_type": "hair",
-                "value": "redFro"
+                "value": "lightBlueFro"
             },
             {
                 "trait_type": "head",
-                "value": "midBlueHead"
+                "value": "lightBlueHead"
             },
             {
                 "trait_type": "mouth",
-                "value": "smirk"
+                "value": "gawking"
             },
             {
                 "trait_type": "nose",
-                "value": "cute"
+                "value": "flared"
             }
         ]
     },
@@ -1396,19 +1372,19 @@
             },
             {
                 "trait_type": "background",
-                "value": "lightBlueBackground"
+                "value": "midOrangeBackground"
             },
             {
                 "trait_type": "body",
-                "value": "midBlueBody"
+                "value": "darkRedBody"
             },
             {
                 "trait_type": "ears",
-                "value": "bigDarkBlue"
+                "value": "smallBlue"
             },
             {
                 "trait_type": "eyes",
-                "value": "relaxedRed"
+                "value": "wideCute"
             },
             {
                 "trait_type": "hair",
@@ -1425,10 +1401,6 @@
             {
                 "trait_type": "nose",
                 "value": "round"
-            },
-            {
-                "trait_type": "logo",
-                "value": "doodFace"
             }
         ]
     },
@@ -1445,15 +1417,60 @@
             },
             {
                 "trait_type": "arms",
+                "value": "redLong"
+            },
+            {
+                "trait_type": "background",
+                "value": "rustRedBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "rustOrangeBody"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyBlueIris"
+            },
+            {
+                "trait_type": "head",
+                "value": "midBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "goof"
+            },
+            {
+                "trait_type": "nose",
+                "value": "flared"
+            },
+            {
+                "trait_type": "hat",
+                "value": "spaceCase"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#30",
+        "image": "ipfs://{REPLACE_WITH_CID}/30.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 30,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 30
+            },
+            {
+                "trait_type": "arms",
                 "value": "blueT"
             },
             {
                 "trait_type": "background",
-                "value": "darkBlueBackground"
+                "value": "midOrangeBackground"
             },
             {
                 "trait_type": "body",
-                "value": "rustRedBody"
+                "value": "darkRedBody"
             },
             {
                 "trait_type": "ears",
@@ -1461,11 +1478,281 @@
             },
             {
                 "trait_type": "eyes",
-                "value": "toonOrangeIris"
+                "value": "CuteMoments"
             },
             {
                 "trait_type": "hair",
-                "value": "goldenFro"
+                "value": "redFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "midBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "goof"
+            },
+            {
+                "trait_type": "nose",
+                "value": "cute"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#31",
+        "image": "ipfs://{REPLACE_WITH_CID}/31.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 31,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 31
+            },
+            {
+                "trait_type": "arms",
+                "value": "redLong"
+            },
+            {
+                "trait_type": "background",
+                "value": "midBlueBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "midBlueBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "smallBlue"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "relaxedYellow"
+            },
+            {
+                "trait_type": "hair",
+                "value": "lightBlueFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "darkOrangeHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "unimpressed"
+            },
+            {
+                "trait_type": "nose",
+                "value": "flared"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#32",
+        "image": "ipfs://{REPLACE_WITH_CID}/32.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 32,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 32
+            },
+            {
+                "trait_type": "arms",
+                "value": "redLong"
+            },
+            {
+                "trait_type": "background",
+                "value": "rustRedBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "rustOrangeBody"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "toonOrangeIris"
+            },
+            {
+                "trait_type": "head",
+                "value": "midBlueHead"
+            },
+            {
+                "trait_type": "nose",
+                "value": "flared"
+            },
+            {
+                "trait_type": "slacker",
+                "value": "hipster"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#33",
+        "image": "ipfs://{REPLACE_WITH_CID}/33.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 33,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 33
+            },
+            {
+                "trait_type": "arms",
+                "value": "blueT"
+            },
+            {
+                "trait_type": "background",
+                "value": "lightBlueBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "midBlueBody"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "beady"
+            },
+            {
+                "trait_type": "head",
+                "value": "darkBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "gawking"
+            },
+            {
+                "trait_type": "nose",
+                "value": "round"
+            },
+            {
+                "trait_type": "hat",
+                "value": "spaceCase"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#34",
+        "image": "ipfs://{REPLACE_WITH_CID}/34.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 34,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 34
+            },
+            {
+                "trait_type": "arms",
+                "value": "yellowT"
+            },
+            {
+                "trait_type": "background",
+                "value": "lightBlueBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "midBlueBody"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "beady"
+            },
+            {
+                "trait_type": "head",
+                "value": "lightOrangeHead"
+            },
+            {
+                "trait_type": "nose",
+                "value": "round"
+            },
+            {
+                "trait_type": "slacker",
+                "value": "hipster"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#35",
+        "image": "ipfs://{REPLACE_WITH_CID}/35.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 35,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 35
+            },
+            {
+                "trait_type": "arms",
+                "value": "redLong"
+            },
+            {
+                "trait_type": "background",
+                "value": "midOrangeBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "midOrangeBody"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "relaxedRed"
+            },
+            {
+                "trait_type": "head",
+                "value": "midBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "gawking"
+            },
+            {
+                "trait_type": "nose",
+                "value": "round"
+            },
+            {
+                "trait_type": "hat",
+                "value": "spaceCase"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#36",
+        "image": "ipfs://{REPLACE_WITH_CID}/36.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 36,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 36
+            },
+            {
+                "trait_type": "arms",
+                "value": "redLong"
+            },
+            {
+                "trait_type": "background",
+                "value": "lightBlueBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "midOrangeBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "smallBlue"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "relaxedRed"
+            },
+            {
+                "trait_type": "hair",
+                "value": "redFro"
             },
             {
                 "trait_type": "head",
@@ -1478,6 +1765,153 @@
             {
                 "trait_type": "nose",
                 "value": "round"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#37",
+        "image": "ipfs://{REPLACE_WITH_CID}/37.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 37,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 37
+            },
+            {
+                "trait_type": "arms",
+                "value": "blueT"
+            },
+            {
+                "trait_type": "background",
+                "value": "midOrangeBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "midBlueBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "smallPale"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "hollow"
+            },
+            {
+                "trait_type": "hair",
+                "value": "redFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "midBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirk"
+            },
+            {
+                "trait_type": "nose",
+                "value": "grafitti"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#38",
+        "image": "ipfs://{REPLACE_WITH_CID}/38.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 38,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 38
+            },
+            {
+                "trait_type": "arms",
+                "value": "redLong"
+            },
+            {
+                "trait_type": "background",
+                "value": "burntOrangeBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "darkRedBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "smallOrange"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyBlueIris"
+            },
+            {
+                "trait_type": "hair",
+                "value": "lightBlueFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "lightBlueHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "goof"
+            },
+            {
+                "trait_type": "nose",
+                "value": "wide"
+            }
+        ]
+    },
+    {
+        "name": "Doodle Doods#39",
+        "image": "ipfs://{REPLACE_WITH_CID}/39.png",
+        "description": "the result of a python code tutorial",
+        "external_url": "https://www.{REPLACE_WITH_WEBSITE}.com",
+        "edition": 39,
+        "attributes": [
+            {
+                "trait_type": "edition",
+                "value": 39
+            },
+            {
+                "trait_type": "arms",
+                "value": "yellowT"
+            },
+            {
+                "trait_type": "background",
+                "value": "lightBlueBackground"
+            },
+            {
+                "trait_type": "body",
+                "value": "darkRedBody"
+            },
+            {
+                "trait_type": "ears",
+                "value": "bigPale"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "relaxedYellow"
+            },
+            {
+                "trait_type": "hair",
+                "value": "redFro"
+            },
+            {
+                "trait_type": "head",
+                "value": "paleHead"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirk"
+            },
+            {
+                "trait_type": "nose",
+                "value": "flared"
             }
         ]
     }
