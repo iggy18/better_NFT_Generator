@@ -6,7 +6,7 @@ DESCRIPTION = "the result of a python code tutorial"
 
 # enter number of desired images here
 # number of desired images must be mathematically possible.
-NUMBER_OF_DESIRED_IMAGES = 40
+NUMBER_OF_DESIRED_IMAGES = 50
 
 # enter the type of image file you are using including the '.'
 FILE_TYPE = '.png'
@@ -21,7 +21,7 @@ BASE_URI = 'ipfs://{REPLACE_WITH_CID}'
 EXTERNAL_URL = 'https://www.{REPLACE_WITH_WEBSITE}.com'
 
 # "True" if you want rarity score on csv AND JSON metadata "False" if you don't
-ADD_RARITY= False
+ADD_RARITY= True
 
 #the order of the layers in the image from left to right (bottom to top)
 LAYER_ORDER = ["background", "head", "hair", "nose", "mouth", "eyes", "body", "arms", "logo", "ears", "hat", "slacker"]
@@ -70,4 +70,4 @@ CONFLICTING_TRAITS = {
 
 # for optional layers. must be between 1 and desired number of images. 
 # the more numbers you have the more likely it is for the image to have that layer 
-LUCKY_NUMBERS = [2, 5, 25, 7]
+LUCKY_NUMBERS = [2, 5, 25, 7, 225, 18, 2555, 575, 777, 42, 888, 1920, 4242, 444, 4444, 555, 4998, 1234, 2345, 3456, 4567, 4321, 321, 21, 1]

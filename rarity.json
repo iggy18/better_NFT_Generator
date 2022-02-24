@@ -1,85 +1,83 @@
 {
     "background": {
-        "lightBlueBackground": 0.4,
-        "darkBlueBackground": 0.1,
-        "rustRedBackground": 0.125,
-        "midOrangeBackground": 0.15,
-        "midBlueBackground": 0.05,
-        "lightOrangeBackground": 0.0,
-        "burntOrangeBackground": 0.0
+        "lightBlueBackground": 0.36,
+        "burntOrangeBackground": 0.1,
+        "darkBlueBackground": 0.18,
+        "rustRedBackground": 0.1,
+        "midBlueBackground": 0.08,
+        "midOrangeBackground": 0.06
     },
     "head": {
-        "darkBlueHead": 0.075,
-        "lightOrangeHead": 0.05,
-        "lightBlueHead": 0.175,
-        "midBlueHead": 0.35,
-        "darkOrangeHead": 0.125,
-        "paleHead": 0.075
+        "lightBlueHead": 0.28,
+        "darkOrangeHead": 0.14,
+        "darkBlueHead": 0.12,
+        "midBlueHead": 0.12,
+        "paleHead": 0.22,
+        "lightOrangeHead": 0.0
     },
     "hair": {
-        "redFro": 0.3,
-        "lightBlueFro": 0.25,
-        "antlers": 0.025,
-        "null": 0.275,
-        "goldenFro": 0.025
+        "redFro": 0.38,
+        "null": 0.22,
+        "goldenFro": 0.04,
+        "lightBlueFro": 0.28
     },
     "nose": {
-        "grafitti": 0.025,
-        "wide": 0.1,
-        "cute": 0.175,
-        "flared": 0.325,
-        "round": 0.25
+        "round": 0.32,
+        "cute": 0.24,
+        "wide": 0.14,
+        "flared": 0.2,
+        "grafitti": 0.0
     },
     "mouth": {
-        "goof": 0.25,
-        "unimpressed": 0.175,
-        "smirk": 0.275,
-        "gawking": 0.075,
-        "null": 0.05,
-        "cheshire": 0.025
+        "goof": 0.16,
+        "smirk": 0.38,
+        "gawking": 0.1,
+        "unimpressed": 0.1,
+        "null": 0.06,
+        "cheshire": 0.08
     },
     "eyes": {
-        "hollow": 0.175,
-        "wonkeyOrangeIris": 0.025,
-        "wideCute": 0.075,
-        "relaxedBlue": 0.075,
+        "CuteMoments": 0.16,
+        "relaxedBlue": 0.08,
+        "wideCute": 0.1,
+        "hollow": 0.06,
         "beady": 0.1,
         "wonkeyBlueIris": 0.1,
-        "relaxedRed": 0.175,
-        "CuteMoments": 0.0,
-        "relaxedYellow": 0.025,
-        "toonOrangeIris": 0.0
+        "relaxedRed": 0.06,
+        "relaxedYellow": 0.08,
+        "wonkeyOrangeIris": 0.02,
+        "toonOrangeIris": 0.04
     },
     "body": {
-        "darkRedBody": 0.225,
-        "midOrangeBody": 0.1,
-        "darkBlueBody": 0.0,
-        "rustRedBody": 0.1,
-        "midBlueBody": 0.3,
-        "lightBlueBody": 0.0,
-        "rustOrangeBody": 0.1
+        "midBlueBody": 0.16,
+        "rustOrangeBody": 0.14,
+        "darkBlueBody": 0.02,
+        "lightBlueBody": 0.18,
+        "darkRedBody": 0.18,
+        "rustRedBody": 0.06,
+        "midOrangeBody": 0.12
     },
     "arms": {
-        "blueT": 0.475,
-        "redLong": 0.375,
-        "yellowT": 0.075
+        "yellowT": 0.1,
+        "blueT": 0.42,
+        "redLong": 0.42
     },
     "logo": {
-        "botman": 0.05,
-        "modern": 0.0
+        "botman": 0.06,
+        "modern": 0.06
     },
     "ears": {
-        "smallBlue": 0.3,
-        "bigPale": 0.1,
-        "smallPale": 0.075,
-        "null": 0.275,
-        "smallOrange": 0.1,
-        "bigDarkBlue": 0.0
+        "bigPale": 0.22,
+        "smallOrange": 0.18,
+        "null": 0.22,
+        "smallBlue": 0.22,
+        "bigDarkBlue": 0.04,
+        "smallPale": 0.0
     },
     "hat": {
-        "spaceCase": 0.2
+        "spaceCase": 0.14
     },
     "slacker": {
-        "hipster": 0.05
+        "hipster": 0.06
     }
 }

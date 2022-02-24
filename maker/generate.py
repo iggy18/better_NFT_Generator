@@ -18,7 +18,6 @@ def tally_values(nft_list):
                     res[key][value] += 1
                 else:
                     res[key][value] = 0
-    #get rarity score here
     for attr, dic in res.items():
         if key != 'edition':
             for key, value in dic.items():
@@ -28,8 +27,6 @@ def tally_values(nft_list):
 def make_csv(nft_list):
     to_csv = []
     for nft in nft_list:
-        #to_csv.append(nft['edition'])
-        # go through main dict here
         for layer in LAYER_ORDER:
             if layer in nft:
                 to_csv.append(nft[layer])
@@ -70,23 +67,25 @@ def winner():
         print(RARE)
         return True
     
-def roll_for_optional_layers(nft):
-    for layer in INCLUSIVE_OPTIONAL_LAYERS:
+def select(layer_list, nft, exclusive=False):
+    for layer in layer_list:
         if winner():
             nft[layer] = None
             nft[layer] = random.choices(TRAITS_AND_VALUES[layer], weights=WEIGHTS[layer], k=1)[0]
+            if exclusive:
+                return
             
-    for layer in EXCLUSIVE_OPTIONAL_LAYERS:
-        if winner():
-            nft[layer] = None
-            nft[layer] = random.choices(TRAITS_AND_VALUES[layer], weights=WEIGHTS[layer], k=1)[0]
-            return
+def roll_for_optional_layers(from_nft):
+    if INCLUSIVE_OPTIONAL_LAYERS:
+        select(INCLUSIVE_OPTIONAL_LAYERS, from_nft)
+    
+    if EXCLUSIVE_OPTIONAL_LAYERS:
+        select(EXCLUSIVE_OPTIONAL_LAYERS, from_nft, exclusive=True)
 
 def remove_conflicting_traits(nft):
     for key, value in nft.items():
         if key in CONFLICTING_TRAITS:
             if key in nft:
-                print(nft[key])
                 for item in CONFLICTING_TRAITS[key]:
                     nft[item] = None
 
