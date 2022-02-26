@@ -1,6 +1,21 @@
-import os
+import glob, os
 
 from .strings import EMPTY_INPUT, NO_INPUT
+from .config import FILE_TYPE
+
+
+def make_value_dictionary():
+    files = glob.glob(f'input/*/*{FILE_TYPE}')
+    
+    value_dict = dict()
+
+    for file in files:
+        items = file.split('/')
+        trait = items[-2]
+        value = items[-1].split('.')[0]
+        value_dict[trait] = value_dict.get(trait, []) + [value]
+        
+    return value_dict
 
 def input_folder_does_not_exist():
     if not os.path.exists('input'):
@@ -13,12 +28,6 @@ def input_folder_is_empty():
         print(EMPTY_INPUT)
         return True
     
-def remove_ext(filenames):
-    clean_file_names = []
-    for file in filenames:
-        clean_file_names.append(file.split('.')[0])
-    return clean_file_names
-    
 def missing_input_folders():
     if input_folder_does_not_exist() or input_folder_is_empty():
         return True
@@ -26,16 +35,7 @@ def missing_input_folders():
 
 def get_files():
 
-    dir_path_dict = {}
-    #this makes the most sense as placement for this check
     if missing_input_folders():
         return 
 
-    for (dirpath, dirnames, filenames) in os.walk('input'):
-        feature = dirpath.split('/')[-1]
-        
-        #maybe add no files feedback
-        if filenames:
-            clean_text_list = remove_ext(filenames)
-            dir_path_dict[feature] = clean_text_list
-    return dir_path_dict
+    return make_value_dictionary()

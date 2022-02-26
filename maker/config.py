@@ -6,7 +6,7 @@ DESCRIPTION = "the result of a python code tutorial"
 
 # enter number of desired images here
 # number of desired images must be mathematically possible.
-NUMBER_OF_DESIRED_IMAGES = 50
+NUMBER_OF_DESIRED_IMAGES = 500
 
 # enter the type of image file you are using including the '.'
 FILE_TYPE = '.png'
