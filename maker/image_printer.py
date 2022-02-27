@@ -14,8 +14,7 @@ def compose(images):
     for img in images:
         if base is None:
             base = cleaned(img)
-        else:
-            base = stack_images(base, cleaned(img))
+        base = stack_images(base, cleaned(img))
     return base
 
 def in_path(attribute, value):
@@ -32,14 +31,14 @@ def ordered(nft):
     return od
 
 def make_image(nft):
-    edition = nft['edition']
+    with_edition = nft['edition']
     path_list = []
     organized = ordered(nft)
     for attribute, value in organized.items():
         if attribute in PROJECT and value != None:
             path_list.append(in_path(attribute, value))
     completed_image = compose(path_list)
-    completed_image.save(out_path(edition))
+    completed_image.save(out_path(with_edition))
 
 
 def build_paths():

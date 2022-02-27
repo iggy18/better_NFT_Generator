@@ -93,14 +93,12 @@ def acceptable():
     keep = input(REVIEW_MESSAGE)
     if keep == 'yes':
         return True
-    else:
-        return False
+    return False
     
 def optional_layers(key):
     if key in INCLUSIVE_OPTIONAL_LAYERS or key in EXCLUSIVE_OPTIONAL_LAYERS:
         return True
-    else:
-        False
+    return False
         
 
 def lottery():
